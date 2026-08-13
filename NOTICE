@@ -1,0 +1,12 @@
+Fimer/ABB/Aurora Power-One HACS integration
+Copyright 2026 marhali
+
+This project is derived in part from the "aurora_abb_powerone" integration
+in home-assistant/core (https://github.com/home-assistant/core), licensed
+under the Apache License, Version 2.0. The TCP transport support ported
+into this repository originates from an unmerged upstream pull request:
+https://github.com/home-assistant/core/pull/166785
+
+Copyright for the original, unmodified portions remains with
+Home Assistant / Nabu Casa, Inc. and the respective contributors.
+See LICENSE for the full license text applicable to this repository.

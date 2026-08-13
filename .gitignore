@@ -1,0 +1,26 @@
+# IDEs
+.idea
+*.iml
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+
+# Test / coverage
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+
+# Type checkers
+.mypy_cache/
+.ruff_cache/
+
+# OS
+.DS_Store

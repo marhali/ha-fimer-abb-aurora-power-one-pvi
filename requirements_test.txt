@@ -1,0 +1,3 @@
+pytest-homeassistant-custom-component
+aurorapy==0.2.7
+ruff==0.16.3
